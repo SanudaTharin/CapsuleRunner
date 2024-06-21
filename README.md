@@ -1,6 +1,5 @@
 # Capsule Runner
 
-![Game Screenshot](path_to_screenshot.png) <!-- Add a screenshot of your game here -->
 
 Capsule Runner is a fun and addictive 3D game developed using the Unity framework. The objective of the game is to control a capsule-shaped player, navigate through a challenging track filled with barriers, collect coins, and avoid falling off the track. The game ends if the player hits a barrier or falls off the track. Each collected coin adds one mark to the player's score, which is displayed live on the screen.
 
